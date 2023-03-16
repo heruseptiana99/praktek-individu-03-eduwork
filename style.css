@@ -1,6 +1,20 @@
 body{
 	font-family: sans-serif;
 }
+
+a{
+	text-decoration:none;
+}
+
+hr{
+	border:solid 1px #CCD1D4;
+}
+
+p{
+	font-size: 14px;
+	
+}
+
 .login{
 	width:268px;
 	border:solid 1px #CCD1D4;
@@ -20,10 +34,6 @@ body{
 	background-color: white;
 	font-size: 14px;
 
-}
-p{
-	font-size: 14px;
-	
 }
 
 .input{
@@ -57,19 +67,11 @@ p{
 	margin-bottom: 20px;
 }
 
-hr{
-	border:solid 1px #CCD1D4;
-}
-
 .facebook{
 	font-weight: bold;
 	margin-bottom: 20px;
 	font-size: 14px;
 
-}
-
-a{
-	text-decoration:none;
 }
 
 .menu{
